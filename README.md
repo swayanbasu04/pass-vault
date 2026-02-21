@@ -15,7 +15,7 @@ A secure command-line password manager that stores encrypted passwords in a MySQ
 1. Clone the repository:
 ```bash
 git clone https://github.com/swayanbasu04/pass-vault
-cd password-vault
+cd pass-vault
 ```
 
 2. Create and activate virtual environment:
